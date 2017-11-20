@@ -32,6 +32,7 @@ Esta linha de comando irá criar uma pasta com o nome do projeto especificado e 
 esta linha de comando deve ser executada no diretório do projeto na qual deseja adicionar o package
 
 > Adicionar referencia de um projeto para outro projeto
+
 `dotnet add reference ..\<nome-projeto>\<nome-projeto>.csproj`
 
 O Comando deve ser executado no diretório do projeto que será adicionada a referencia.
