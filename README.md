@@ -20,6 +20,11 @@ Esta linha de comando irá criar uma pasta com o nome do projeto especificado e 
 
 Esta linha de comando irá criar uma pasta com o nome do projeto especificado e dentro da pasta um arquivo `.csproj` com o nome especificado.
 
+> Criar um projeto de páginas Razor
+
+`dotnet new razor --name <nome-projeto>`
+
+Esta linha de comando irá criar uma pasta com o nome do projeto especificado e dentro da pasta um arquivo `.csproj` com o nome especificado.
 
 > Adicionar um projeto à solução do diretório atual
 
